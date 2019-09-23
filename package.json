@@ -1,0 +1,26 @@
+{
+  "name": "game_test_multi",
+  "version": "1.0.0",
+  "description": "Simple html 5 multiplayer games",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natapone/game_test_multi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natapone/game_test_multi/issues"
+  },
+  "homepage": "https://github.com/natapone/game_test_multi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
